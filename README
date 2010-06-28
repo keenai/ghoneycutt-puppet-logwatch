@@ -1,0 +1,5 @@
+logwatch
+
+This module disables logwatch and is included by ghoneycutt-generic
+
+Released 20100628 - Garrett Honeycutt - GPLv2
